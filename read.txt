@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 the shi yi ge ce shi wen jian master 修改
+=======
+the shi yi ge ce shi wfeature1 修改
+>>>>>>> feature1
